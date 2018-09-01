@@ -1,0 +1,7 @@
+﻿  ConsoleApplication7.cpp
+d:\документы\visual studio 2017\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(36): error C2672: "sort": не найдена соответствующая перегруженная функция
+d:\документы\visual studio 2017\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(36): error C2780: void std::sort(_RanIt,_RanIt): требует аргументов: 2, имеется: 1
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.10.25017\include\algorithm(2921): note:  см. объявление "std::sort"
+d:\документы\visual studio 2017\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(36): error C2780: void std::sort(_RanIt,_RanIt,_Pr): требует аргументов: 3, имеется: 1
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.10.25017\include\algorithm(2913): note:  см. объявление "std::sort"
+d:\документы\visual studio 2017\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(36): error C2059: синтаксическая ошибка: )
