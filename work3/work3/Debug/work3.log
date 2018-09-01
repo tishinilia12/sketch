@@ -1,0 +1,10 @@
+﻿  work3.cpp
+d:\документы\visual studio 2017\projects\work3\work3\work3.cpp(41): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+d:\документы\visual studio 2017\projects\work3\work3\work3.cpp(42): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+d:\документы\visual studio 2017\projects\work3\work3\work3.cpp(45): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+d:\документы\visual studio 2017\projects\work3\work3\work3.cpp(46): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+d:\документы\visual studio 2017\projects\work3\work3\work3.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\visual studio 2017\projects\work3\work3\work3.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\visual studio 2017\projects\work3\work3\work3.cpp(62): warning C4018: <: несоответствие типов со знаком и без знака
+  work3.vcxproj -> D:\Документы\Visual Studio 2017\Projects\work3\Debug\work3.exe
+  work3.vcxproj -> D:\Документы\Visual Studio 2017\Projects\work3\Debug\work3.pdb (Partial PDB)

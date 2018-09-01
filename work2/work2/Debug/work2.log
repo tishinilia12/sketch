@@ -1,0 +1,5 @@
+﻿  work2.cpp
+d:\документы\visual studio 2017\projects\work2\work2\work2.cpp(151): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\visual studio 2017\projects\work2\work2\work2.cpp(160): warning C4018: <: несоответствие типов со знаком и без знака
+  work2.vcxproj -> D:\Документы\Visual Studio 2017\Projects\work2\Debug\work2.exe
+  work2.vcxproj -> D:\Документы\Visual Studio 2017\Projects\work2\Debug\work2.pdb (Partial PDB)
