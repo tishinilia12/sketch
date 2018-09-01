@@ -1,0 +1,11 @@
+﻿  work1.cpp
+d:\документы\visual studio 2017\projects\work1\work1\work1.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\visual studio 2017\projects\work1\work1\work1.cpp(55): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\visual studio 2017\projects\work1\work1\work1.cpp(56): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\visual studio 2017\projects\work1\work1\work1.cpp(69): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\visual studio 2017\projects\work1\work1\work1.cpp(89): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\visual studio 2017\projects\work1\work1\work1.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\visual studio 2017\projects\work1\work1\work1.cpp(104): warning C4018: <: несоответствие типов со знаком и без знака
+d:\документы\visual studio 2017\projects\work1\work1\work1.cpp(117): warning C4018: <: несоответствие типов со знаком и без знака
+  work1.vcxproj -> d:\документы\visual studio 2017\Projects\work1\Debug\work1.exe
+  work1.vcxproj -> d:\документы\visual studio 2017\Projects\work1\Debug\work1.pdb (Partial PDB)
